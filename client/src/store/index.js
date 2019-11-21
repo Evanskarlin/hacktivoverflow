@@ -5,7 +5,7 @@ import Swal from 'sweetalert2'
 
 Vue.use(Vuex)
 
-const url = 'http://localhost:3000'
+const url = 'http://54.179.154.132'
 const Toast = Swal.mixin({
   toast: true,
   position: 'top-end',
